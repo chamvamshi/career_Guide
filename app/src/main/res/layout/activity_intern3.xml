@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/mainpage"
+    tools:context=".internActivity">
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="322dp"
+        android:layout_height="220dp"
+        android:layout_margin="35dp"
+        android:layout_gravity="center"
+        android:padding="10dp"
+        app:srcCompat="@drawable/intern" />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="150dp">
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            android:layout_margin="35dp"
+            android:text="An internship is a professional learning experience that offers meaningful, practical work related to a student’s field of study or career interest. An internship gives a student the opportunity for career exploration and development, and to learn new skills.
+            It offers the employer the opportunity to bring new ideas and energy into the workplace, develop talent and potentially build a pipeline for future full-time employees.
+            A quality internship:Consists of a part-time or full-time work schedule that includes no more than 25% clerical or administrative duties.
+            Provides a clear job/project description for the work experience.
+           Orients the student to the organization, its culture and proposed work assignment(s).
+           Helps the student develop and achieve learning goals.
+            Offers regular feedback to the student intern."
+            />
+
+    </ScrollView>
+    <TextView
+        android:id="@+id/internship"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="#INTERNSHIP LINKS"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/yellow"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/internship1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hyperlink6"
+        android:layout_marginTop="10dp"
+        android:textSize="20sp"/>
+    <TextView
+        android:id="@+id/internship2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hyperlink7"
+        android:layout_marginTop="10dp"
+        android:textSize="20sp"/>
+    <TextView
+        android:id="@+id/internship3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hyperlink8"
+        android:layout_marginTop="10dp"
+        android:textSize="20sp"/>
+
+</LinearLayout>

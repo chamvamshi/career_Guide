@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/mainpage"
+    tools:context=".opensourceActivity">
+
+
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="322dp"
+        android:layout_height="220dp"
+        android:layout_gravity="center"
+        android:layout_margin="35dp"
+        app:srcCompat="@drawable/opensource" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="150dp">
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            android:layout_margin="35dp"
+            android:text="Open source is a term that originally referred to open source software (OSS). Open source software is code that is designed to be publicly accessible—anyone can see, modify, and distribute the code as they see fit.
+
+Open source software is developed in a decentralized and collaborative way, relying on peer review and community production. Open source software is often cheaper, more flexible, and has more longevity than its proprietary peers because it is developed by communities rather than a single author or company.
+
+Open source has become a movement and a way of working that reaches beyond software production. The open source movement uses the values and decentralized production model of open source software to find new ways to solve problems in their communities and industries.
+" />
+
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="# OPENSOURCE LINKS"
+        android:textColor="@color/green"
+        android:textStyle="bold"
+        android:textSize="20sp"/>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="150dp">
+    <TextView
+        android:id="@+id/opensourcelink"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:text="@string/hyperlink3" />
+</ScrollView>
+
+    <TextView
+        android:id="@+id/opensourcelink2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hyperlink4" />
+    <TextView
+        android:id="@+id/opensourcelink3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hyperlink5" />
+
+</LinearLayout>

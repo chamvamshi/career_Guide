@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Career Guide</string>
+    <string name="ai_name">Artificial intelligence</string>
+    <string name="web_name">Web development</string>
+    <string name="android_name">Android development</string>
+    <string name="tech_name">Tech domains</string>
+    <string name="hackathon_name">Hackathons</string>
+    <string name="internship_name">Internships</string>
+    <string name="open_name">Open source</string>
+    <string name="hyperlink1">Devfolio is a community-driven SaaS platform for all-things-hackathon. They help individuals, universities, companies, and other groups get noticed.  \n<a href="https://devfolio.co/"> \t Devfolio Link </a></string>
+    <string name="hyperlink2">\n<a href="https://www.aicte-india.org/Initiatives/smart-india-hackathon"> \t smart india Link  </a></string>
+    <string name="hyperlink3"> You’ve heard people talking about it, you’ve seen flyers and blog posts on it and now you want to know more! So here we go…
+
+Google Summer of Code (GSoC) is a global, online program that brings new contributors into open source software organizations. The program began in 2005 and until 2021 was focused on bringing university students into open source. Starting in 2022, we have expanded the program to welcome students and all beginner contributors to open source who are 18 years and older to apply to the program as GSoC Contributors. These GSoC Contributors will write code and become part of these open source communities while making some money along the way. The organizations provide mentors who act as guides through the entire process, from learning about the community, to helping GSoC Contributors become familiar with the code base and testing practices, to finally releasing their code for the world to use! The ultimate goal is that these GSoC Contributors will become excited about the communities they are involved with during the program and will continue to actively contribute to the communities long after their GSoC program ends - or maybe start their own open source project! \n<a href="https://summerofcode.withgoogle.com/"> \t GSOC LINK  </a></string>
+
+    <string name="hyperlink4"> \n<a href="https://opensource.guide/"> \t $ open source Guide</a></string>
+    <string name="hyperlink5"> \n<a href=" https://youtu.be/xKhkg9F1mMc"> \t $ youtube link on opensource</a></string>
+
+    <string name="hyperlink6"> \n<a href="https://internshala.com/"> \t $ INTERNSHALA LINK </a></string>
+    <string name="hyperlink7"> \n<a href="https://www.glassdoor.co.in/Job/intern-jobs-SRCH_KO0,6.htm"> \t $ GLASSDOOR LINK </a></string>
+
+    <string name="hyperlink8"> \n<a href="https://angel.co/job-collections"> \t $ ANGELLIST INTERNS </a></string>
+    <string name="hyperlink9"> \n<a href="https://youtu.be/MkcfB7S4fq0"> \t WEB ROADMAP LINK </a></string>
+    <string name="hyperlink10"> \n<a href="https://youtu.be/l1EssrLxt7E"> \t FREE WEB PLAYLIST </a></string>
+    <string name="hyperlink11"> \n<a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/"> \t PAID UDEMY COURSE</a></string>
+    <string name="hyperlink12"> \n<a href="https://www.ccbp.in/"> \t  PAID NEXTWAVE COURSE</a></string>
+    <string name="hyperlink13"> \n<a href="https://youtu.be/M-jKKLK40hU"> \t ANDROID ROADMAP LINK </a></string>
+    <string name="hyperlink14"> \n<a href="https://youtu.be/InigFUSiPl8"> \t FREE ANDROID PLAYLIST </a></string>
+    <string name="hyperlink15"> \n<a href="https://perfectelearning.com/courses/android-app-development-53"> \t PAID PERFCETPLANb COURSE</a></string>
+    <string name="hyperlink16"> \n<a href="https://www.ccbp.in/"> \t  PAID NEXTWAVE COURSE</a></string>
+    <string name="hyperlink17"> \n<a href="https://youtu.be/J_YLjCTOFWE"> \t AI  ROADMAP LINK </a></string>
+    <string name="hyperlink18"> \n<a href="https://youtu.be/JMUxmLyrhSk"> \t FREE AI PLAYLIST LINK </a></string>
+    <string name="hyperlink19"> \n<a href="https://www.ccbp.in/"> \t  PAID NEXTWAVE COURSE</a></string>
+</resources>
+

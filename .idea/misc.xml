@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/admin/AndroidStudioProjects/CareerGuide/app/src/main/res/drawable/categories_button.xml" value="0.177" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/CareerGuide/app/src/main/res/drawable/font.xml" value="0.177" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/CareerGuide/app/src/main/res/layout/activity_ai.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/CareerGuide/app/src/main/res/layout/activity_android.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/CareerGuide/app/src/main/res/layout/activity_hackathons.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/CareerGuide/app/src/main/res/layout/activity_intern2.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/CareerGuide/app/src/main/res/layout/activity_intern3.xml" value="0.264" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/CareerGuide/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/CareerGuide/app/src/main/res/layout/activity_opensource.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/CareerGuide/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/CareerGuide/app/src/main/res/layout/activity_techdomain.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/CareerGuide/app/src/main/res/layout/activity_web.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/CareerGuide/app/src/main/res/layout/slide_item_container.xml" value="0.190625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

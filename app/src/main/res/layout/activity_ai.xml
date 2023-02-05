@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/mainpage"
+    tools:context=".AiActivity">
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="322dp"
+        android:layout_height="220dp"
+        android:layout_margin="35dp"
+        android:layout_gravity="center"
+        app:srcCompat="@drawable/artificial" />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="150dp">>
+
+        <TextView
+            android:id="@+id/android"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_margin="35dp"
+            android:text="What is artificial intelligence simple definition?
+Artificial intelligence is the simulation of human intelligence processes by machines, especially computer systems. Specific applications of AI include expert systems, natural language processing, speech recognition and machine vision."
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+
+
+
+
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="#AI DEVELOPMENT GUIDANCE"
+        android:textSize="20sp"
+        android:layout_marginTop="5dp"
+        android:textColor="@color/yellow"/>
+
+    <TextView
+        android:id="@+id/artificial1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textSize="20sp"
+        android:text="@string/hyperlink17" />
+    <TextView
+        android:id="@+id/artificial2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textSize="20sp"
+        android:text="@string/hyperlink18" />
+    <TextView
+        android:id="@+id/artificial3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textSize="20sp"
+        android:text="@string/hyperlink19" />
+
+
+</LinearLayout>
