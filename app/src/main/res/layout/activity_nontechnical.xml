@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".Nontechnical">
+
+
+
+       />
+
+    <TextView
+        android:id="@+id/affbtn"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/categories_button"
+        android:gravity="center"
+        android:layout_marginTop="200dp"
+        android:text="AFFLIATING MARKETING"
+        android:textColor="@color/white"
+         />
+    <TextView
+        android:id="@+id/videobtn"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/categories_button"
+        android:gravity="center"
+        android:layout_marginTop="100dp"
+        android:text="VIDEO EDITING"
+        android:textColor="@color/white"
+        />
+</LinearLayout>

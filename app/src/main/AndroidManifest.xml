@@ -14,33 +14,47 @@
         android:theme="@style/Theme.CareerGuide"
         tools:targetApi="31">
         <activity
+            android:name=".VideoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".affilateActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Nontechnical"
+            android:exported="false"
+            android:label="@string/Non_technical" />
+        <activity
+            android:name=".Firstmainactivity"
+            android:exported="false"
+            android:label="@string/app_name" />
+        <activity
             android:name=".AiActivity"
             android:exported="false"
-            android:label="@string/ai_name"/>
+            android:label="@string/ai_name" />
         <activity
             android:name=".androidActivity"
             android:exported="false"
-            android:label="@string/android_name"/>
+            android:label="@string/android_name" />
         <activity
             android:name=".webActivity"
             android:exported="false"
-            android:label="@string/web_name"/>
+            android:label="@string/web_name" />
         <activity
             android:name=".internActivity"
             android:exported="false"
-            android:label="@string/internship_name"/>
+            android:label="@string/internship_name" />
         <activity
             android:name=".opensourceActivity"
             android:exported="false"
-            android:label="@string/open_name"/>
+            android:label="@string/open_name" />
         <activity
             android:name=".hackathonsActivity"
             android:exported="false"
-            android:label="@string/hackathon_name"/>
+            android:label="@string/hackathon_name" />
         <activity
             android:name=".techdomainActivity"
             android:exported="false"
-            android:label="@string/tech_name"/>
+            android:label="@string/tech_name" />
         <activity
             android:name=".splashActivity"
             android:exported="true">
@@ -52,7 +66,8 @@
         </activity>
         <activity
             android:name=".MainActivity"
-            android:exported="true" />
+            android:exported="true"
+            android:label="@string/technical_sector" />
     </application>
 
 </manifest>

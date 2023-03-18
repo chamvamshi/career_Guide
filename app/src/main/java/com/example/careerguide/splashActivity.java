@@ -25,7 +25,7 @@ public class splashActivity extends AppCompatActivity {
                     e.printStackTrace();
                 }
                 finally {
-                    Intent intent = new Intent(splashActivity.this , MainActivity.class);
+                    Intent intent = new Intent(splashActivity.this ,Firstmainactivity.class);
                     startActivity(intent);
                     finish();
 

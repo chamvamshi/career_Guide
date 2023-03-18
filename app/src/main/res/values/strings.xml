@@ -7,6 +7,8 @@
     <string name="hackathon_name">Hackathons</string>
     <string name="internship_name">Internships</string>
     <string name="open_name">Open source</string>
+    <string name="technical_sector">TECHNICAL SECTOR</string>
+    <string name="Non_technical">NON-TECHNICAL SECTOR</string>
     <string name="hyperlink1">Devfolio is a community-driven SaaS platform for all-things-hackathon. They help individuals, universities, companies, and other groups get noticed.  \n<a href="https://devfolio.co/"> \t Devfolio Link </a></string>
     <string name="hyperlink2">\n<a href="https://www.aicte-india.org/Initiatives/smart-india-hackathon"> \t smart india Link  </a></string>
     <string name="hyperlink3"> You’ve heard people talking about it, you’ve seen flyers and blog posts on it and now you want to know more! So here we go…
@@ -31,5 +33,7 @@ Google Summer of Code (GSoC) is a global, online program that brings new contrib
     <string name="hyperlink17"> \n<a href="https://youtu.be/J_YLjCTOFWE"> \t AI  ROADMAP LINK </a></string>
     <string name="hyperlink18"> \n<a href="https://youtu.be/JMUxmLyrhSk"> \t FREE AI PLAYLIST LINK </a></string>
     <string name="hyperlink19"> \n<a href="https://www.ccbp.in/"> \t  PAID NEXTWAVE COURSE</a></string>
+    <string name="hyperlink20">\n<a href="https://youtu.be/NwfcVWNnprw"> \t   AFFLIATE BEGINNERS</a></string>
+    <string name="hyperlink21">\n<a href="https://youtu.be/HWavpBHDawE"> \t   VIDEO EDITING PLAYLIST</a></string>
 </resources>
 
